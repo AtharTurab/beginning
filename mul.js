@@ -1,4 +1,4 @@
-const mul = (a, b) => {
+function mul (a, b) {
   let c;
   c = a * b;
 };
