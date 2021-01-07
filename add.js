@@ -1,4 +1,4 @@
-const add = (a, b) => {
+function (a, b) {
   let c;
   c = a + b;
 };
